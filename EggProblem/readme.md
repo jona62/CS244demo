@@ -22,7 +22,7 @@ floor.
 break them.
 
 * What matters is if your approach finds the floor, if your approach requires
-that both eggs must be broken, that's totally fine.**
+that both eggs must be broken, that's totally fine.
 
 I encourage you to figure out a solution that minimizes the amount of egg drop
 trials, however _solving the problem comes first_, optimization afterward.
