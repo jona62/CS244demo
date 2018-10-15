@@ -1,9 +1,10 @@
 # Two Eggs, 100 Floors Problem.
 
-### You are given two eggs, both exactly the same, that will break if dropped from
-### the window of a certain floor of a building that has 100 floors. Let's say we
-### want to know which floors are safe to drop the eggs from. This means that we
-### need to find the lowest floor in which dropping the eggs will break them.
+**You are given two eggs, both exactly the same, that will break if dropped from
+the window of a certain floor of a building that has 100 floors. Let's say we
+want to know which floors are safe to drop the eggs from. This means that we
+need to find the lowest floor in which dropping the eggs from that floor will
+break them.**
 
 ## Some things you can assume:
 
@@ -20,7 +21,7 @@ floor.
 * This is not a trick question, the eggs do have some floor(s) whose drops will
 break them.
 
-* **What matters is if your approach finds the floor, if your approach requires
+* What matters is if your approach finds the floor, if your approach requires
 that both eggs must be broken, that's totally fine.**
 
 I encourage you to figure out a solution that minimizes the amount of egg drop
