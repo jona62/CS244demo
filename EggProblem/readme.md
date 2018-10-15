@@ -1,11 +1,11 @@
-#Two Eggs, 100 Floors Problem.
+# Two Eggs, 100 Floors Problem.
 
-###You are given two eggs, both exactly the same, that will break if dropped from
-###the window of a certain floor of a building that has 100 floors. Let's say we
-###want to know which floors are safe to drop the eggs from. This means that we
-###need to find the lowest floor in which dropping the eggs will break them.
+### You are given two eggs, both exactly the same, that will break if dropped from
+### the window of a certain floor of a building that has 100 floors. Let's say we
+### want to know which floors are safe to drop the eggs from. This means that we
+### need to find the lowest floor in which dropping the eggs will break them.
 
-##Some things you can assume:
+## Some things you can assume:
 
 * If an egg survives the fall, it can be used again.
 
