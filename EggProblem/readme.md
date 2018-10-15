@@ -26,3 +26,11 @@ that both eggs must be broken, that's totally fine.
 
 I encourage you to figure out a solution that minimizes the amount of egg drop
 trials, however _solving the problem comes first_, optimization afterward.
+
+After figuring out your proposed solution to the problem open up your IDE of
+choice (Atom, repl.it, NetBeans, etc whichever you're more comfortable with)
+and create two files, _'eggs.h', and 'solution.cpp'_. Copy the content of my
+'eggs.h' into yours and my 'solution.cpp' into yours.
+
+For those of you familiar with github/git you are welcome to clone this
+repository and work on the problem that way.
